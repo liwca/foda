@@ -3,7 +3,7 @@
   "version": "0.5.51",
   "author": "rafaelcastrocouto",
   "description": "Fight Over Dat Ancient - Card Game",
-  "homepage": "https://foda-app.herokuapp.com/",
+  "homepage": "https://mobacard.herokuapp.com/",
   "readmeFilename": "README.md",
   "engine": {
     "node": "latest"
